@@ -1,6 +1,6 @@
 ---
 title: "lab_1"
-author: Ковалев Эдгар
+author: d1blo
 format:
    md:
      output-file: README.md
