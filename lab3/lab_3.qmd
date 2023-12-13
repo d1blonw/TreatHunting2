@@ -1,5 +1,6 @@
 ---
 title: "lab_3"
+author: d1blo
 format: 
     md:
         output-file: README.md
