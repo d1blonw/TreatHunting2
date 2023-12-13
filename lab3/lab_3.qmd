@@ -45,21 +45,21 @@ nycflights13::weather
 2.Сколько строк в каждом датафрейме?
 
 ```{r}
-ncol(flights)
-ncol(airlines)
-ncol(airports)
-ncol(planes)
-ncol(weather)
-```
-
-3.Сколько столбцов в каждом датафрейме?
-
-```{r}
 nrow(flights)
 nrow(airlines)
 nrow(airports)
 nrow(planes)
 nrow(weather)
+```
+
+3.Сколько столбцов в каждом датафрейме?
+
+```{r}
+ncol(flights)
+ncol(airlines)
+ncol(airports)
+ncol(planes)
+ncol(weather)
 ```
 
 4.Как просмотреть примерный вид датафрейма?
