@@ -27,12 +27,11 @@ library(nycflights13)
 ```
 
 ``` r
-library(tidyverse)
+library(dplyr)
 ```
 
-
 ``` r
-library(dplyr)
+library(tidyverse)
 ```
 
 
