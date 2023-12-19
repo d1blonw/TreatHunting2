@@ -29,7 +29,9 @@ library(nycflights13)
 
 ```{r}
 library(dplyr)
-{r}
+```
+
+```{r}
 library(tidyverse)
 ```
 
