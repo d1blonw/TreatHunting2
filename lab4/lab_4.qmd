@@ -27,6 +27,7 @@ engine: knitr
 ``` r
 library(readr)
 library(dplyr)
+library(tidyverse)
 ```
 
 ```         
