@@ -1,10 +1,8 @@
 ---
 title: "lab_4"
-author: d1blo
 format: 
     md:
         output-file: README.md
-editor: visual
 engine: knitr
 ---
 
